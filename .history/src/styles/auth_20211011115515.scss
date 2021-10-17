@@ -1,0 +1,19 @@
+#page-auth {
+    display: flex;
+    align-items: stretch;
+    height: 100vh;
+
+    aside {
+        flex: 7;
+        background: #6833e4;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+    }
+
+    main {
+        flex: 8;
+    }
+}
+
+    
